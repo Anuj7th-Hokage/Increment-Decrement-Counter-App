@@ -9,9 +9,9 @@ A simple counter app built with **React** and styled using **Tailwind CSS**. It 
 - Beautiful UI with Tailwind
 - Smooth transitions and hover effects
 
-## 📸 Screenshot![Uploading Screenshot 1947-03-18 at 2.02.26 PM.png…]()
+## 📸 Screenshot!
 
-![App Screenshot](./screenshot.png) 
+
 
 ## 🛠️ Technologies Used
 

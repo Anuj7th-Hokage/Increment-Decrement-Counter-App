@@ -2,9 +2,6 @@
 
 A simple counter app built with **React** and styled using **Tailwind CSS**. It allows you to increment, decrement, and reset the counter value with a clean and modern UI.
 
-## 🌐 Live Demo
-
-Check out the live demo here: [Demo Website](https://your-demo-url.com)
 ## 🚀 Features
 
 - Increment / Decrement counter
@@ -12,10 +9,15 @@ Check out the live demo here: [Demo Website](https://your-demo-url.com)
 - Beautiful UI with Tailwind
 - Smooth transitions and hover effects
 
+## 📸 Screenshot![Uploading Screenshot 1947-03-18 at 2.02.26 PM.png…]()
+
+![App Screenshot](./screenshot.png) 
+
 ## 🛠️ Technologies Used
 
 - React
 - Tailwind CSS
+- Vite (optional if you used it)
 
 ## 📦 Installation
 

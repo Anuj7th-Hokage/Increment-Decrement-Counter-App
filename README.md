@@ -10,7 +10,7 @@ A simple counter app built with **React** and styled using **Tailwind CSS**. It 
 - Smooth transitions and hover effects
 
 ## 📸 Screenshot!
-
+https://postimg.cc/6TYg46FZ
 
 
 ## 🛠️ Technologies Used
